@@ -1,0 +1,5 @@
+C:/Users/fabia/OneDrive/Dokumente/C/GameEngine/Fabinite_Engine/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/fabia/OneDrive/Dokumente/C/GameEngine/Fabinite_Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fabia/OneDrive/Dokumente/C/GameEngine/Fabinite_Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fabia/OneDrive/Dokumente/C/GameEngine/Fabinite_Engine/cmake-build-debug/CMakeFiles/Test_autogen_timestamp_deps.dir
+C:/Users/fabia/OneDrive/Dokumente/C/GameEngine/Fabinite_Engine/cmake-build-debug/CMakeFiles/Test_autogen.dir

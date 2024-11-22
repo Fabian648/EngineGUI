@@ -1,0 +1,20 @@
+# ninja log v5
+1109	7887	7540212450856137	CMakeFiles/Test.dir/SDLWidget.cpp.obj	9beadc2e3adaf326
+3	453	7540213601101440	build.ninja	4748d1b39d955973
+7	1105	7540212382576912	Test_autogen/timestamp	fb82b9271a645b9a
+1105	7731	7540212449279642	CMakeFiles/Test.dir/Test_autogen/mocs_compilation.cpp.obj	e10c32dfb9c743c6
+7	1105	7540212382576912	Test_autogen/mocs_compilation.cpp	fb82b9271a645b9a
+1116	7868	7540212450661629	CMakeFiles/Test.dir/main.cpp.obj	d5b4919bc844c527
+8068	8652	7540212456050588	Test.exe	579f1a3ae93b8740
+1120	2512	7540212397121096	CMakeFiles/Test.dir/utils.cpp.obj	e0cb2e8f026ae814
+1112	8068	7540212452668267	CMakeFiles/Test.dir/MainWindow.cpp.obj	633e20cbf2a7bed3
+16	2799	7540213707717774	Test_autogen/timestamp	b328e404124deb08
+16	2799	7540213707717774	Test_autogen/mocs_compilation.cpp	b328e404124deb08
+16	2799	7540213707717774	C:/Users/fabia/OneDrive/Dokumente/C/GameEngine/Fabinite_Engine/cmake-build-debug/Test_autogen/timestamp	b328e404124deb08
+16	2799	7540213707717774	C:/Users/fabia/OneDrive/Dokumente/C/GameEngine/Fabinite_Engine/cmake-build-debug/Test_autogen/mocs_compilation.cpp	b328e404124deb08
+2821	5587	7540213736400756	CMakeFiles/Test.dir/utils.cpp.obj	b046f29693d45733
+2804	10996	7540213790655723	CMakeFiles/Test.dir/main.cpp.obj	212df7bc294c8e81
+2815	11066	7540213791322587	CMakeFiles/Test.dir/SDLWidget.cpp.obj	887cb28aadcd0824
+2799	11106	7540213791755927	CMakeFiles/Test.dir/Test_autogen/mocs_compilation.cpp.obj	7cc55e9495d67b26
+2809	11133	7540213792048393	CMakeFiles/Test.dir/MainWindow.cpp.obj	7963e7f39fb1f16
+11133	11732	7540213795388813	Test.exe	7689131f92b025e1
