@@ -1,7 +1,3 @@
-//
-// Created by fabia on 22.11.2024.
-//
-
 #include "SDLWidget.h"
 #include "utils.h"
 #include <iostream>
@@ -55,7 +51,7 @@ void SDLWidget::runGameLoop(QTextEdit* console) {
 }
 
 void SDLWidget::handleEvents(SDL_Event& e, QTextEdit* console) {
-    if (e.type == SDL_QUIT || (e.type == SDL_KEYDOWN && e.key.keysym.sym == SDLK_ESCAPE)) {
+    if (e.type == SDL_QUIT) {
         running = false;
     }
 

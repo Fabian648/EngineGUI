@@ -1,6 +1,3 @@
-//
-// Created by fabia on 22.11.2024.
-//
 #ifndef SDLWIDGET_H
 #define SDLWIDGET_H
 

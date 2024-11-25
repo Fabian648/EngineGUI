@@ -1,7 +1,3 @@
-//
-// Created by fabia on 23.11.2024.
-//
-
 #ifndef UTILS_H
 #define UTILS_H
 

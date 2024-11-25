@@ -1,7 +1,3 @@
-//
-// Created by fabia on 23.11.2024.
-//
-
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
